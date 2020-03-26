@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-26 15:55:27</sys_created_on>
+        <sys_id>a8ab24e1dbf740108dc0e37a48961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_105673_my_test_a_mynewtable.x_105673_my_test_a.mynewrole</sys_name>
+        <sys_package display_value="My Test App" source="x_105673_my_test_a">051b68a1dbf740108dc0e37a489619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test App">051b68a1dbf740108dc0e37a489619ae</sys_scope>
+        <sys_security_acl display_value="x_105673_my_test_a_mynewtable">e4ab60a1dbf740108dc0e37a48961942</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a8ab24e1dbf740108dc0e37a48961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-26 15:55:27</sys_updated_on>
+        <sys_user_role display_value="x_105673_my_test_a.mynewrole" name="x_105673_my_test_a.mynewrole">1c4ba8addb3340108dc0e37a489619c4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
